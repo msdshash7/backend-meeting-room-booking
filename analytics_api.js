@@ -1,0 +1,1 @@
+// routes/analytics_api.js placeholder content
